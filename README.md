@@ -4,15 +4,7 @@
 
 ***How to reach me:***
 
-[Github](https://github.com/beT4w)
-
-[Youtube](https://www.youtube.com/channel/UCl1UN9W3Tltin3fuSlyefmg)
-
-[My discord server](https://discord.gg/58UAMVJTSH)
-
-Discord: `B$T4 ▽#6977
-
-HQWWQEWQE QWE
+[Github](https://github.com/beT4w) | [Youtube](https://www.youtube.com/channel/UCl1UN9W3Tltin3fuSlyefmg) | [My discord server](https://discord.gg/58UAMVJTSH)
 
 <!--
 **beT4w/beT4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
