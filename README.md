@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Hi there 👋
+https://cdn.discordapp.com/attachments/608711480346542102/827284342945480774/image0.gif
 <!--
 **beT4w/beT4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
