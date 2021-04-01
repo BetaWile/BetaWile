@@ -4,7 +4,7 @@
 
 How to reach me:
 
-<li> [My discord server](https://discord.gg/58UAMVJTSH) </li>
+[My discord server](https://discord.gg/58UAMVJTSH)
 
 <!--
 **beT4w/beT4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->    <li>     </li>
