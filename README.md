@@ -9,7 +9,7 @@
 
 ### Talking about Personal Stuffs:
 
- <li> 💻 Right now, I am focused on bot coding. </li>
+ <li>💻 Right now, I am focused on bot coding.</li>
 
 
 <!--
