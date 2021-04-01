@@ -6,7 +6,12 @@
 
 [Github](https://github.com/beT4w) | [Youtube](https://www.youtube.com/channel/UCl1UN9W3Tltin3fuSlyefmg) | [Discord server](https://discord.gg/58UAMVJTSH)
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+
+### Talking about Personal Stuffs:
+
+ <li> 💻 Right now, I am focused on bot coding. </li>
+
+
 <!--
 **beT4w/beT4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->    <li>     </li>
+--> 
