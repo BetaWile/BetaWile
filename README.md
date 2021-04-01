@@ -11,14 +11,13 @@
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
   <li>💻 Right now, I am focused on bot coding.</li>
-  <li>📫 You can reach me from <a href="https://discord.com/users/298888568279924746" target"blank_">Discord</a> or <a href="https://instagram.com/banbeku" target="_blank">Instagram</a>.</li>
+  <li>📫 You can reach me from <a href="https://discord.com/users/780891365063917572" target"blank_">Discord</a> or <a href="https://www.instagram.com/atako.05/?hl=tr" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>Languages and Tools:</h3>
 <p style="float:right">
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-   <code><img height="20" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
