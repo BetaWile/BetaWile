@@ -1,8 +1,13 @@
 ### Hi there 👋
+
+### Hi, I’m B$T4!, a young developer from Turkey 🚀
+
+[My discord server](https://discord.gg/58UAMVJTSH)
+
+<li>HeaveN Bot Türkiye'nin En Kullanışlısı olduğunu iddia ettiğimiz %100 Türkçe Botudur. HeaveN Bot 200'den fazla komudu ve hoş sistemleriyle iddia ediyoruz çok seveceksiniz. Eğlence, moderasyon,  kullanıcı, ayarlanabilir kodlar, sunucu-menaje kodları ve daha bir sürü kategoriyle fazla kodu bulunan bir Türk Botu.</li>
+
 <!--
 **beT4w/beT4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi, I’m Barbecue!, a young developer from Turkey 🚀
 
 
 
