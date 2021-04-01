@@ -24,5 +24,5 @@
    <h3 align="left">GitHub Stats:</h3>
    <p align="left">
       <img src="https://cdn.discordapp.com/attachments/608711480346542102/827284303342993458/image0.gif" width="%100" height="150px" alt="stats" />
-      <img src="https://cdn.discordapp.com/attachments/608711480346542102/827284303342993458/image0.gif" width="%100" height="150px" alt="stats" />
+      <img src="https://64.media.tumblr.com/8757a607db434977b5cae344c2ac8c45/ffae93d6df6a04f2-09/s400x600/27d9aff79c4ee2081614c404f5af89c290793119.gifv" width="%100" height="150px" alt="stats" />
    </p>
