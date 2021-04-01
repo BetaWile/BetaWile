@@ -1,8 +1,8 @@
 <h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-   <p align="left">Hi, I’m <a href="https://bbq.codes/">Barbecue!</a>, a young developer from Turkey 🚀</p>
+   <p align="left">Hi, I’m <a href="https://bbq.codes/">B$T4!</a>, a young developer from Turkey 🚀</p>
 <h3>My Personal accounts:</h3>
 <p align="left">
-   <a href="https://discord.com/users/298888568279924746" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.com/users/780891365063917572" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/dxmod7e684q3naa2tvhvuzf2c" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://www.youtube.com/channel/UCyo7IiN1hANaCNzlSqzxk1A" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://instagram.com/banbeku" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
