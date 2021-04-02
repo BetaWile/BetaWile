@@ -22,7 +22,7 @@
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
    </p>
-   <h3 align="left">LUCİFER</h3>
+   <h3 align="left">LUCİFER 🖤</h3>
    <p align="left">
       <img src="https://cdn.discordapp.com/attachments/748506137455886336/802842034305499177/image0.gif" width="%100" height="150px" alt="stats" />
       <img src="https://media4.giphy.com/media/xT0xejfspV0QA1jaEM/giphy.gif" width="%100" height="150px" alt="stats" />
