@@ -12,6 +12,7 @@
    <ul>
    <li>💻 Right now, I am focused on bot coding.</li>
    <li>📫 You can reach me from <a href="https://discord.com/users/780891365063917572" target"blank_">Discord</a> or <a href="https://www.instagram.com/atako.05/?hl=tr" target="_blank">Instagram</a>.</li>
+   <li>📺 My favorite series is Lucifer as you can see below</li>
    </ul>
    <h3>Languages and Tools:</h3>
    <p style="float:right">
@@ -21,7 +22,7 @@
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
    </p>
-   <h3 align="left">GitHub Stats:</h3>
+   <h3 align="left">LUCİFER</h3>
    <p align="left">
       <img src="https://img.wattpad.com/273d824473ff91f1a9887ba7a445e234a9db5471/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5164315072715650676f567978513d3d2d3739343337363137362e313632633932376635613039383465333538343936373539333437312e676966" width="%100" height="150px" alt="stats" />
       <img src="https://data.whicdn.com/images/283588863/original.gif" width="%100" height="150px" alt="stats" />
