@@ -26,5 +26,5 @@
       <img src="https://img.wattpad.com/273d824473ff91f1a9887ba7a445e234a9db5471/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5164315072715650676f567978513d3d2d3739343337363137362e313632633932376635613039383465333538343936373539333437312e676966" width="%100" height="150px" alt="stats" />
       <img src="https://data.whicdn.com/images/283588863/original.gif" width="%100" height="150px" alt="stats" />
       <img src="https://media1.giphy.com/media/W2tyCOVUFfafBm6U2j/giphy.gif?cid=ecf05e47c6s811778vtm0fsbsnzdsla0yiw0hoo8a8wyqvat&rid=giphy.gif" width="%100" height="150px" alt="stats" />
-      <img src="https://i.pinimg.com/originals/74/7c/fa/747cfa6e0f019ee57e4d4faceaa33920.gif" width="%100" height="150px" alt="stats" />
+      <img src="https://media4.giphy.com/media/VdDfqFkKUpwrlxh1np/giphy.gif?cid=ecf05e476rgysajghskmcm4kvf3jl2xzvuv6a0stccgfr7t8&rid=giphy.gif" width="%100" height="150px" alt="stats" />
    </p>
