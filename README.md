@@ -31,6 +31,5 @@
 <img src="https://media4.giphy.com/media/VdDfqFkKUpwrlxh1np/giphy.gif?cid=ecf05e476rgysajghskmcm4kvf3jl2xzvuv6a0stccgfr7t8&rid=giphy.gif" width="%100" height="150px" alt="stats" />
 <img src="https://media1.giphy.com/media/Vho1aiNcV75AEabStR/giphy.gif?cid=ecf05e476irubtwkvsumyji36vg9eeh1rzd8rkn5eh9qal0m&rid=giphy.gif" width="%100" height="150px" alt="stats" /> 
 </p>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beT4w&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudis&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321)](https://github.com/sudis)
+<img src="https://media1.giphy.com/media/Vho1aiNcV75AEabStR/giphy.gif?cid=ecf05e476irubtwkvsumyji36vg9eeh1rzd8rkn5eh9qal0m&rid=giphy.gif" width="%100" height="150px" alt="stats" /> 
 
