@@ -2,7 +2,7 @@
 <p align="left">Hi, I’m <a href="https://github.com/beT4w">B$T4!</a>, a young developer from Turkey 🚀</p>
 <h3>My Personal accounts:</h3>
 <p align="left">
-<a href="https://discord.com/users/780891365063917572" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/58UAMVJTSH" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/11145406245?si=e8ca2aa060d848f5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCl1UN9W3Tltin3fuSlyefmg" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://github.com/beT4w" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
