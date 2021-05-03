@@ -32,6 +32,6 @@
 <img src="https://media1.giphy.com/media/Vho1aiNcV75AEabStR/giphy.gif?cid=ecf05e476irubtwkvsumyji36vg9eeh1rzd8rkn5eh9qal0m&rid=giphy.gif" width="%100" height="150px" alt="stats" /> 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbecue&theme=dark&count_private=true&show_icons=true&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bet4w&layout=compact&theme=dark&show_icons=tru" />
    <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
 </p>
