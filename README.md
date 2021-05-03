@@ -25,8 +25,8 @@
 </p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bet4w&layout=compact&theme=dark&show_icons=tru" />
    <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bet4w&layout=compact&theme=dark&show_icons=tru" />
 <h3 align="left">LUCİFER 🖤</h3>
 <p align="left">
 <img src="https://cdn.discordapp.com/attachments/748506137455886336/802842034305499177/image0.gif" width="%100" height="150px" alt="stats" />
