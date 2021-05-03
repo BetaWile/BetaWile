@@ -23,6 +23,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bet4w&layout=compact&theme=dark&show_icons=tru" />
+   <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
 <h3 align="left">LUCİFER 🖤</h3>
 <p align="left">
 <img src="https://cdn.discordapp.com/attachments/748506137455886336/802842034305499177/image0.gif" width="%100" height="150px" alt="stats" />
@@ -30,8 +34,4 @@
 <img src="https://media1.giphy.com/media/W2tyCOVUFfafBm6U2j/giphy.gif?cid=ecf05e47c6s811778vtm0fsbsnzdsla0yiw0hoo8a8wyqvat&rid=giphy.gif" width="%100" height="150px" alt="stats" />
 <img src="https://media4.giphy.com/media/VdDfqFkKUpwrlxh1np/giphy.gif?cid=ecf05e476rgysajghskmcm4kvf3jl2xzvuv6a0stccgfr7t8&rid=giphy.gif" width="%100" height="150px" alt="stats" />
 <img src="https://media1.giphy.com/media/Vho1aiNcV75AEabStR/giphy.gif?cid=ecf05e476irubtwkvsumyji36vg9eeh1rzd8rkn5eh9qal0m&rid=giphy.gif" width="%100" height="150px" alt="stats" /> 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bet4w&layout=compact&theme=dark&show_icons=tru" />
-   <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
 </p>
