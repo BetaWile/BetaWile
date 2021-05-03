@@ -30,10 +30,8 @@
 <img src="https://media1.giphy.com/media/W2tyCOVUFfafBm6U2j/giphy.gif?cid=ecf05e47c6s811778vtm0fsbsnzdsla0yiw0hoo8a8wyqvat&rid=giphy.gif" width="%100" height="150px" alt="stats" />
 <img src="https://media4.giphy.com/media/VdDfqFkKUpwrlxh1np/giphy.gif?cid=ecf05e476rgysajghskmcm4kvf3jl2xzvuv6a0stccgfr7t8&rid=giphy.gif" width="%100" height="150px" alt="stats" />
 <img src="https://media1.giphy.com/media/Vho1aiNcV75AEabStR/giphy.gif?cid=ecf05e476irubtwkvsumyji36vg9eeh1rzd8rkn5eh9qal0m&rid=giphy.gif" width="%100" height="150px" alt="stats" /> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=synthwave&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=synthwave&show_icons=truet" />
-</a>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbecue&theme=dark&count_private=true&show_icons=true&hide_border=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=barbecue&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
