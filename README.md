@@ -15,7 +15,7 @@
 </ul>
 <h3>Little information</h3>
 <ul>
-<li>Hello guys, since this date, I have decided not to share my projects on my github account. I think I developed enough and now I have decided to turn it into a business. I'll do it for a fee for Discord servers. You can contact the links above.</li>
+<li>Hello guys, I have decided not to share my projects on my github account as of May 15th. I think I have improved enough and now I have decided to turn this into a business. I'll do it for a fee for Discord servers. You can contact the links above.</li>
 </ul>
 <h3>Languages and Tools:</h3>
 <p style="float:right">
