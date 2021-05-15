@@ -13,6 +13,10 @@
 <li>📫 You can reach me from <a href="https://discord.com/users/780891365063917572" target"blank_">Discord</a>.</li>
 <li>📺 My favorite series is Lucifer as you can see below</li>
 </ul>
+<h3>Little information</h3>
+<ul>
+<li>Hello guys, since this date, I have decided not to share my projects on my github account. I think I developed enough and now I have decided to turn it into a business. I'll do it for a fee for Discord servers. You can contact the links above.</li>
+</ul>
 <h3>Languages and Tools:</h3>
 <p style="float:right">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -23,10 +27,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
-<h3>Little information</h3>
-<ul>
-<li>Hello guys, since this date, I have decided not to share my projects on my github account. I think I developed enough and now I have decided to turn it into a business. I'll do it for a fee for Discord servers. You can contact the links above.</li>
-</ul>
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
