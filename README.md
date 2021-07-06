@@ -29,9 +29,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852615172673503262?theme=light&bg=ffc8ec&animated=false&hideDiscrim=false&borderRadius=30px)]
-
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
