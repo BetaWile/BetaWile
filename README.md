@@ -28,6 +28,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/780891365063917572)](https://discord.com/users/780891365063917572)
+
+
+
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
