@@ -34,7 +34,6 @@
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bet4w&layout=compact&theme=dark&show_icons=tru" width="%100" height="150px" alt="stats"/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=beT4w"/>
 <h3 align="left">Discord Activity:</h3>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852615172673503262)](https://discord.com/users/852615172673503262)
