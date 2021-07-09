@@ -18,6 +18,7 @@
 <!---<ul>
 <li>Hello guys, I have decided not to share my projects on my github account as of May 15th. I think I have improved enough and now I have decided to turn this into a business. I'll do it for a fee for Discord servers. You can contact the links above.</li>
 </ul> -->
+<h3><img src="https://komarev.com/ghpvc/?username=Cwaty&label=Ziyaretçi%20Sayısı&color=3bb94e" alt="Beta" /></h3> 
 <h3>Languages and Tools:</h3>
 <p style="float:right">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
