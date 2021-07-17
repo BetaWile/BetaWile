@@ -10,7 +10,7 @@
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
 <li>💻 Right now, I am focused on bot coding.</li>
-<li>📫 You can reach me from <a href="https://discord.com/users/780891365063917572" target"blank_">Discord</a>.</li>
+<li>📫 You can reach me from <a href="https://discord.com/users/852615172673503262" target"blank_">Discord</a>.</li>
 <li>📺 My favorite series is Lucifer as you can see below</li>
 </ul>
 <h3>Little information</h3> 
