@@ -32,8 +32,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=BetaWilew
-&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=BetaWile&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetaWile&layout=compact&theme=dark&show_icons=tru"/>
 <h3 align="left">Discord Activity:</h3>
 
