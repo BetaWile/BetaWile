@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white" href="https://open.spotify.com/user/11145406245?si=ca90a1371ab64f8f">
 <img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/channel/UCl1UN9W3Tltin3fuSlyefmg">
 <img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white" href="https://github.com/BetaWile">
-   </a>
+   <a href="https://discord.com/users/298888568279924746" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 <div align="center">
