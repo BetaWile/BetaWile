@@ -22,15 +22,15 @@
 </div>
 
 <div align="center">
-<h3>Discord Activity</h3>
-   <a href="https://discord.com/users/852615172673503262" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/852615172673503262">
+<h3>Github Stat</h3>
+   <a href="https://github.com/BetaWile" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/?username=BetaWile&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
    </a>
 </div>
 
 <div align="center">
-<h3>Github Stat</h3>
-   <a href="https://github.com/BetaWile" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/?username=BetaWile&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<h3>Discord Activity</h3>
+   <a href="https://discord.com/users/852615172673503262" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/852615172673503262">
    </a>
 </div>
