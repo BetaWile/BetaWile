@@ -1,4 +1,4 @@
-[![barbecue](https://cdn.discordapp.com/attachments/854084764683468800/869760672987242576/benmalimbeta.png)](https://github.com/BetaWile/)
+[![Beta](https://cdn.discordapp.com/attachments/852666407250690141/883344234575462410/benmalimbeta.png)](https://github.com/BetaWile/)
 
 <div align="center">
 <h3>Contact İnformation</h3>
